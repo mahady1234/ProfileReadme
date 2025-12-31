@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://ibb.co.com/5gVj5gbV"><img src="https://i.ibb.co.com/Pv8W5vq8/Red-And-white-Modern-Digital-Marketing-Expert-Outdoor-Banner.png" alt="Banner" />
+  <img className="w-full" src="https://ibb.co.com/5gVj5gbV"><img src="https://i.ibb.co.com/Pv8W5vq8/Red-And-white-Modern-Digital-Marketing-Expert-Outdoor-Banner.png" alt="Banner" />
 </p>
 
 <h1 align="center">Mahady Hasan Rumi</h1>
