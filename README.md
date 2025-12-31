@@ -86,8 +86,6 @@ Here’s a quick overview of my GitHub activity:
 ![Rumi's GitHub Contribution Graph](https://ghchart.rshah.org/mahady1234)
 
 
-### 📈 Top Languages
-![Top Languages](https://github-stats-alpha.vercel.app/api/languages?username=mahady1234)
-
+![GitHub Profile Summary](https://github-readme-stats.vercel.app/api?username=mahady1234&show_icons=true&theme=tokyonight)
 
 
