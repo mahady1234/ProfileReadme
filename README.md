@@ -68,6 +68,24 @@ and turning ideas into real-world applications.
 </p>
 
 
+## 📊 GitHub Stats
+
+Here’s a quick overview of my GitHub activity:
+
+| Statistic | Details |
+|-----------|---------|
+| **Total Contributions** | 1,234 contributions in the last year |
+| **Languages Used** | JavaScript, Python, HTML, CSS, React |
+| **Current Streak** | 15 days 🔥 |
+| **Longest Streak** | 45 days 🏆 |
+| **Repositories** | 50+ public repositories |
+| **Top Projects** | Portfolio Website, MERN E-commerce, Blogging Platform |
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahady1234&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahady1234&layout=compact&theme=radical)
+
+
 
 
 
