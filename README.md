@@ -57,13 +57,13 @@ and turning ideas into real-world applications.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=mahadyhasanrumi&show_icons=true&theme=react](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react)" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=mahady1234&show_icons=true&theme=react](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react)" />
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=mahadyhasanrumi&theme=react](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react)" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=mahady1234&theme=react](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react)" />
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mahadyhasanrumi&layout=compact&theme=react](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react)" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mahady1234&layout=compact&theme=react](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react)" />
 </p>
