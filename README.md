@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img className="w-full" src="https://ibb.co.com/5gVj5gbV"><img src="https://i.ibb.co.com/Pv8W5vq8/Red-And-white-Modern-Digital-Marketing-Expert-Outdoor-Banner.png" alt="Banner" />
+ <img src="https://i.ibb.co.com/Pv8W5vq8/Red-And-white-Modern-Digital-Marketing-Expert-Outdoor-Banner.png" alt="Banner" />
 </p>
 
 <h1 align="center">Mahady Hasan Rumi</h1>
@@ -57,13 +57,13 @@ and turning ideas into real-world applications.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahadyhasanrumi&show_icons=true&theme=react" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=mahadyhasanrumi&show_icons=true&theme=react](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react)" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahadyhasanrumi&theme=react" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=mahadyhasanrumi&theme=react](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react)" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadyhasanrumi&layout=compact&theme=react" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mahadyhasanrumi&layout=compact&theme=react](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react)" />
 </p>
