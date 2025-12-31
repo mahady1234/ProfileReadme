@@ -81,8 +81,10 @@ Here’s a quick overview of my GitHub activity:
 | **Repositories** | 50+ public repositories |
 | **Top Projects** | Portfolio Website, MERN E-commerce, Blogging Platform |
 
-### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=mahady1234&theme=radical)
+## 📊 GitHub Contributions
+
+![Rumi's GitHub Contribution Graph](https://ghchart.rshah.org/mahady1234)
+
 
 ### 📈 Top Languages
 ![Top Languages](https://github-stats-alpha.vercel.app/api/languages?username=mahady1234)
