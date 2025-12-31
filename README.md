@@ -4,12 +4,12 @@
 </p>
 
 <h1 align="center">Mahady Hasan Rumi</h1>
-<h3 align="center">Frontend Web Developer</h3>
+<h3 align="center">Frontend & Backend Web Developer</h3>
 
----
+
 
 ## 👋 About Me
-I am a passionate Frontend Web Developer who loves building clean, responsive,  
+I am a passionate Frontend and Backend Web Developer who loves building clean, responsive,  
 and user-friendly web interfaces. I enjoy learning modern web technologies  
 and turning ideas into real-world applications.
 
@@ -17,9 +17,9 @@ and turning ideas into real-world applications.
 
 ## 🔭 Current Activities
 - 🌱 Exploring **Next.js**
-- 🧩 Working on a **Tourism Website**
 - 🚀 Improving React & JavaScript skills
-- 📚 Learning backend basics (Node.js)
+- 🧩 Working on a **Tourism Website**
+- 📚 Learning & Practice backend  (Node.js,MongoDB,Express)
 
 ---
 
@@ -37,7 +37,7 @@ and turning ideas into real-world applications.
 
 ### 🧰 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,mongoDb,nextJs,html,css,jabascript,react" />
 </p>
 
 ---
@@ -52,18 +52,6 @@ and turning ideas into real-world applications.
   </a>
 </p>
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahady1234&show_icons=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahady1234" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahady1234&layout=compact" />
-</p>
