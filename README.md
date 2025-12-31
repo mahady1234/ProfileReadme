@@ -1,6 +1,6 @@
-<!-- Banner -->
+
 <p align="center">
-  <img src="https://i.imgur.com/YOUR_BANNER_IMAGE.png" alt="Banner" />
+  <img src="[https://i.imgur.com/YOUR_BANNER_IMAGE.png](https://ibb.co.com/5gVj5gbV)" alt="Banner" />
 </p>
 
 <h1 align="center">Mahady Hasan Rumi</h1>
