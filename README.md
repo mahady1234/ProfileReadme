@@ -37,7 +37,7 @@ and turning ideas into real-world applications.
 
 ### 🧰 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,mongoDb,nextJs,html,css,jabascript,react" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,mongodb,nextjs,html,css,jabascript,react,tailwind" />
 </p>
 
 ---
@@ -47,10 +47,16 @@ and turning ideas into real-world applications.
   <a href="https://github.com/mahadyhasanrumi">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+
+  <a href="[https://facebook.com/YOUR_FACEBOOK_USERNAME](https://www.facebook.com/share/18BctCevuK/)">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
 </p>
+
 
 
 
