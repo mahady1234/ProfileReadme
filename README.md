@@ -75,10 +75,10 @@ Here’s a quick overview of my GitHub activity:
 | Statistic | Details |
 |-----------|---------|
 | **Total Contributions** | 1,234 contributions in the last year |
-| **Languages Used** | JavaScript, Python, HTML, CSS, React |
+| **Languages Used** | JavaScript,Tailwind, HTML, CSS, React |
 | **Current Streak** | 15 days 🔥 |
 | **Longest Streak** | 45 days 🏆 |
-| **Repositories** | 50+ public repositories |
+| **Repositories** | 40+ public repositories |
 | **Top Projects** | Portfolio Website, MERN E-commerce, Blogging Platform |
 
 ## 📊 GitHub Contributions
