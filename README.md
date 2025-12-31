@@ -27,7 +27,7 @@ and turning ideas into real-world applications.
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" />
 </p>
 
 ### ⚙️ Backend
@@ -37,22 +37,22 @@ and turning ideas into real-world applications.
 
 ### 🧰 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,mongodb,nextjs,html,css,jabascript,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,nextjs" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-<p>
-  <a href="https://github.com/mahadyhasanrumi">
+<p align="left">
+  <a href="https://github.com/mahadyhasanrumi" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="[https://facebook.com/YOUR_FACEBOOK_USERNAME](https://www.facebook.com/share/18BctCevuK/)">
+  <a href="https://www.facebook.com/share/18BctCevuK/" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
 </p>
