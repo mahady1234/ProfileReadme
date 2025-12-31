@@ -18,7 +18,17 @@ and turning ideas into real-world applications.
 ## 🔭 Current Activities
 - 🌱 Exploring **Next.js**
 - 🚀 Improving React & JavaScript skills
-- 🧩 Working on a **Tourism Website**
+- 🔭 Current Activities
+- 🌍 Building a modern Tourism Website with responsive UI and user-friendly design
+- 🛒 Developing E-commerce websites with product listing, cart, and checkout features
+- 🐾 Creating Pet-related platforms for services, adoption, and care information
+- 📰 Working on News & Blog websites with dynamic content layout
+- 🍔 Designing Food & Restaurant websites with menu and order sections
+- 🌱 Building Tree & Environmental awareness websites
+- 📚 Developing Study & Educational platforms for learning resources
+- 🚆 Creating Train Ticket & Booking related web interfaces
+- 🩸 Building Blood Donation websites to connect donors with recipients
+- 🚀 Continuously improving skills in React, JavaScript, and modern frontend tools
 - 📚 Learning & Practice backend  (Node.js,MongoDB,Express)
 
 ---
